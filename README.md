@@ -2,8 +2,7 @@
 
 A passionate Devloper from Thailand, with experience in machine learning, data analysis, and software development. I love exploring new technologies and applying them to solve real-world problems.
 
-### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/username)
+
 
 ### Languages and Tools:
 
